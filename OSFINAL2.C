@@ -3,6 +3,7 @@
 #include<graphics.h>
 #include<dos.h>
 #include<stdlib.h>
+//Visualization
   int r,l,index,n,i,gd=DETECT,gm,count=50,temp,y,z;
   char c[10],d[10];
   int j,g,k,q,x,init,a[8],b[9];
